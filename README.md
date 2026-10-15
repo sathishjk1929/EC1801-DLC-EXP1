@@ -31,15 +31,7 @@ endmodule
 
 ## TestBench Program
 
-
-
-
-
-
-
-    
-## Truth Tablemodule tb;
-    reg A, B;
+ reg A, B;
     wire F;
     // Instantiate the design under test (DUT)
     fun uut (
@@ -65,6 +57,14 @@ endmodule
     end
 
 endmodule
+
+
+
+
+
+    
+## Truth Tablemodule tb;
+   
  
 <img width="795" height="311" alt="image" src="https://github.com/user-attachments/assets/dd4ba5b9-016b-4ae5-a693-f309c60c4c0e" />
 
